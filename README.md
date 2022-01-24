@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Dynamics 365 NAV/BC**
 
-- 🌱 I’m currently learning **Dynamics 365 Business Central**
+- 🌱 I’m currently learning **Dynamics 365 Business Central,Flutter**
 
 - 💬 Ask me about **DotNet,Nodejs,Flutter**
 
